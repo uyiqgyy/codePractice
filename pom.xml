@@ -14,5 +14,6 @@
         <module>concurrencyTool</module>
         <module>concurrencyTool</module>
         <module>concurrency</module>
+        <module>ioc</module>
     </modules>
 </project>

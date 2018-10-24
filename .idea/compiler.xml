@@ -12,6 +12,7 @@
         <module name="concurrency" />
         <module name="concurrencyTool" />
         <module name="generics" />
+        <module name="ioc" />
         <module name="trainingJava" />
       </profile>
     </annotationProcessing>
@@ -23,6 +24,7 @@
       <module name="concurrency" target="1.5" />
       <module name="concurrencyTool" target="1.5" />
       <module name="generics" target="1.5" />
+      <module name="ioc" target="1.5" />
       <module name="test" target="1.5" />
       <module name="trainingJava" target="1.5" />
     </bytecodeTargetLevel>
