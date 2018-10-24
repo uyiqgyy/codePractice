@@ -6,12 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="acpect" />
+        <module name="acpect.yu" />
         <module name="acpectyu" />
+        <module name="concurrency" />
+        <module name="concurrencyTool" />
+        <module name="generics" />
+        <module name="trainingJava" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="acpect" target="1.8" />
+      <module name="acpect.yu" target="1.5" />
       <module name="acpectyu" target="1.8" />
+      <module name="code" target="1.5" />
+      <module name="concurrency" target="1.5" />
+      <module name="concurrencyTool" target="1.5" />
+      <module name="generics" target="1.5" />
       <module name="test" target="1.5" />
+      <module name="trainingJava" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

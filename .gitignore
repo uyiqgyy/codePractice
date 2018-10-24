@@ -274,6 +274,6 @@ fabric.properties
 
 /concurrencyTool/concurrencyTool.iml
 /generics/generics.iml
-!/generics/generics.iml
-!/concurrencyTool/concurrencyTool.iml
+*.iml
+/target
 /.idea/
